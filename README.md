@@ -1,5 +1,5 @@
 # Hello 
-I am a UI developer, who also like to improve processes.
+I work as a UI developer with focus on the process.
 
 ## More about me/my work
  - [Blog](https://webup.org/blog) - personal blog on programming
