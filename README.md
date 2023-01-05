@@ -1,7 +1,7 @@
 # Hello 
-I am a UI developer with focus on the process.
+I work as web developer on UIs and app architecture for browsers.
 
-I write stories about real programming and human challenges in software development. Long essays or code how-tos. Answers I can not find on Google.
+Most of my time is dedicated to non-trivial dynamic projects, and some to open source. 
 
 ## More about me/my work
  - [Blog](https://webup.org/blog) - personal blog on programming
