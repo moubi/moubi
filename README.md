@@ -1,7 +1,7 @@
 # Hello 
-I develop UIs and app architecture for browsers.
+I develop UIs and browsers' app architecture.
 
-Most of my time is dedicated to web projects with fluid requirements. 
+My time is spent on hight risk projects with fluid requirements. 
 
 ## More about my work
  - [Blog](https://webup.org/blog) - personal blog on programming
